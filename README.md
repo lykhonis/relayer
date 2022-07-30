@@ -9,6 +9,10 @@
 | Contracts | [relayer-contracts](https://github.com/lykhonis/relayer-contracts) |
 | Oracles | [relayer-oracles](https://github.com/lykhonis/relayer-oracles) |
 
+Video:
+
+[![walkthrough video](https://i9.ytimg.com/vi/OizE7QbIOEs/mq1.jpg?sqp=CISylZcG&rs=AOn4CLBnonWVLJB2AxxJ8Xxc8vxGMrGdWw)](https://youtu.be/OizE7QbIOEs)
+
 # Overview
 
 Wise relayer service enables customers to leverage a staking pool to pay transaction fees on a blockchain.
