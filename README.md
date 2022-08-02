@@ -6,6 +6,7 @@
 | Name | Volodymyr Lykhonis |
 | Email | volodymyr@lykhonis.com |
 | App | https://relayer-frontend.vercel.app |
+| Debug App | https://relayer-frontend.vercel.app/debug |
 | Frontend | [relayer-frontend](https://github.com/lykhonis/relayer-frontend) |
 | Contracts | [relayer-contracts](https://github.com/lykhonis/relayer-contracts) |
 | Oracles | [relayer-oracles](https://github.com/lykhonis/relayer-oracles) |
