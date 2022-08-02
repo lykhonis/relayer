@@ -5,6 +5,7 @@
 | Project | Wise Relayer Service |
 | Name | Volodymyr Lykhonis |
 | Email | volodymyr@lykhonis.com |
+| App | https://relayer-frontend.vercel.app |
 | Frontend | [relayer-frontend](https://github.com/lykhonis/relayer-frontend) |
 | Contracts | [relayer-contracts](https://github.com/lykhonis/relayer-contracts) |
 | Oracles | [relayer-oracles](https://github.com/lykhonis/relayer-oracles) |
